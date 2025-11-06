@@ -1,5 +1,5 @@
 <template>
-  <div class="animate-fade-in-up mb-8 mx-auto max-w-6xl">
+  <div class="animate-fade-in-up mb-8 mx-auto max-w-7xl md:px-9">
     <div class="flex justify-center mb-8">
       <div class="flex-col rounded-full p-2 w-fit bg-white/10 border border-white/20 shadow-lg"
         style="backdrop-filter: blur(8px);">
