@@ -13,15 +13,24 @@ import {Github, Linkedin, Mail} from "lucide-vue-next"
       <div class="flex gap-2 p-auto flex-col md:flex-row">
         <button class="main-btn md:mr-4 md:ml-0 h-12 m-auto">Download CV</button>
         <div class="flex m-auto md:m-0">
-          <div class="flex justify-center aspect-square w-16 rounded-full p-1 transition-all duration-300 hover:bg-white/20">
+          <a href="https://github.com/m1ke-gru" 
+            class="flex justify-center aspect-square w-16 rounded-full p-1 transition-all duration-300 hover:bg-white/20"
+            target="_blank"
+            rel="noopener noreferrer">
             <Github class="icon-btn" client:load />
-          </div>
-          <div class="flex justify-center aspect-square w-16 rounded-full p-1 transition-all duration-300 hover:bg-white/20">
+          </a>
+          <a href="https:/www.linkedin.com/in/mykhailo-grushko-450b542b8/" 
+            class="flex justify-center aspect-square w-16 rounded-full p-1 transition-all duration-300 hover:bg-white/20"
+            target="_blank"
+            rel="noopener noreferrer">
             <Linkedin class="icon-btn" client:load />
-          </div>
-          <div class="flex justify-center rounded-full w-16 p-1 aspect-square transition-all duration-300 hover:bg-white/20">
+          </a>
+          <a class="flex justify-center rounded-full w-16 p-1 aspect-square transition-all duration-300 hover:bg-white/20" 
+            href="mailto:mike@mgrushko.dev"
+            target="_blank"
+            rel="noopener noreferrer">
             <Mail class="icon-btn" client:load />
-          </div>
+          </a>
         </div>
       </div>
     </div>
