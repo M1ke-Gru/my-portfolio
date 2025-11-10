@@ -65,7 +65,3 @@
 .animate-fade-in {
   animation: fade-in 0.5s ease-out;
 }
-
-body {
-  background: linear-gradient(to bottom right, #0f172a, #1a202c);
-}
