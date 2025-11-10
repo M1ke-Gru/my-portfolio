@@ -7,7 +7,7 @@
       <!-- Real job -->
       <div class="border-l-4 border-emerald-400 pl-4">
         <h2 class="text-2xl font-semibold text-white mb-2">Werkstudent Software Development</h2>
-        <p class="text-white/70 mb-6 text-xl">QASS | Apr 2024 - Jan 2025</p>
+        <p class="text-white/70 mb-6 text-xl">QASS GmbH | Apr 2024 - Jan 2025</p>
         <ul class="list-disc list-inside text-white/80 space-y-1">
           <li>Developed an logging and allert system to show info, error and other messages to the user,
             which is callable from both python backend and QML frontend.</li>
