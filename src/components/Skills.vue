@@ -61,7 +61,7 @@ const skills: Skill[] = [
   { name: "Zustand", level_of_knowledge: Level.Experienced },
   { name: "Tailwind CSS", level_of_knowledge: Level.Experienced },
   { name: "Astro", level_of_knowledge: Level.Proficient },
-  { name: "Vue", level_of_knowledge: Level.Familiar },
+  { name: "Vue", level_of_knowledge: Level.Proficient },
   { name: "HTML", level_of_knowledge: Level.Experienced },
   { name: "CSS", level_of_knowledge: Level.Experienced },
 
